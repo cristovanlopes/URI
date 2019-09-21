@@ -1,3 +1,4 @@
+//Problem URI https://www.urionlinejudge.com.br/judge/pt/problems/view/1049
 #include <iostream>
 #include <string>
 using namespace std;
